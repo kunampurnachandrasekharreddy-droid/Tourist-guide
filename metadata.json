@@ -1,0 +1,6 @@
+{
+  "name": "TouristMate",
+  "description": "Interactive tourist travel explorer with nearby places discovery, interactive map, detailed place information, reviews, directions, and emergency SOS assistance.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
